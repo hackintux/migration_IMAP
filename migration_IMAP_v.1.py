@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-Outlook & M365 Toolkit — Interface Tkinter Stylée et Colorée
-Ajout d'une authentification M365 pour chaque action.
-"""
-
 import os
 import shutil
 import subprocess
